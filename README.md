@@ -1,7 +1,7 @@
 # About me
 
 
-**hengwu31-bit/hengwu31-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Wu-Emojis / Wu Emojis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
